@@ -7,7 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "PullToRefreshView.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <PullToRefreshViewDelegate>
+
+
 
 @end

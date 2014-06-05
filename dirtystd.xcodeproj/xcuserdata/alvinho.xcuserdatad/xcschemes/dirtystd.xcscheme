@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6C3286841934739B005E0BEB"
-               BuildableName = "dirtystd.app"
+               BuildableName = "DishList.app"
                BlueprintName = "dirtystd"
                ReferencedContainer = "container:dirtystd.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6C3286841934739B005E0BEB"
-            BuildableName = "dirtystd.app"
+            BuildableName = "DishList.app"
             BlueprintName = "dirtystd"
             ReferencedContainer = "container:dirtystd.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6C3286841934739B005E0BEB"
-            BuildableName = "dirtystd.app"
+            BuildableName = "DishList.app"
             BlueprintName = "dirtystd"
             ReferencedContainer = "container:dirtystd.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6C3286841934739B005E0BEB"
-            BuildableName = "dirtystd.app"
+            BuildableName = "DishList.app"
             BlueprintName = "dirtystd"
             ReferencedContainer = "container:dirtystd.xcodeproj">
          </BuildableReference>
